@@ -1,4 +1,4 @@
-# debateclub
+# debating 
 
 Multi Media Authoring Midterm using Github!
 
